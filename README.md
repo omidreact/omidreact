@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmer & football & music & existansialism
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : sir.omidramezani@gmail.com
 - my website: http://oreact.ir
 
 <!---
