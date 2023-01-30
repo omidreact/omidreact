@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omidreact
-- 👀 I’m interested in programmer & football & music & existansialism
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : sir.omidramezani@gmail.com
