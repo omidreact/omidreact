@@ -5,7 +5,7 @@
 - 📫 How to reach me : sir.omidramezani@gmail.com
 - my website: http://oreact.ir
 Apps:
-‏«حس مثبت» را در بازار اندروید ببین:
+‏«حس مثبت» در بازار:
 http://cafebazaar.ir/app/?id=com.hesemosbat&ref=share
 
 <!---
