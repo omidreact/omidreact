@@ -5,9 +5,10 @@
 - 📫 How to reach me : sir.omidramezani@gmail.com
 - my website: http://oreact.ir
 Apps:
-- ‏«حس مثبت» در بازار:
+- ‏«positive feeling» «حس مثبت» store cafebazar:
 http://cafebazaar.ir/app/?id=com.hesemosbat&ref=share
-
+- ‏«positive feeling» «حس مثبت» direct:
+http://oreact.ir/hesemosbat
 <!---
 omidreact/omidreact is a ✨ special ✨ repository because its  `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
