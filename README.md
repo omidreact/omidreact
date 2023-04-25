@@ -9,8 +9,6 @@ Apps:
 http://cafebazaar.ir/app/?id=com.hesemosbat&ref=share
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HOPE;Is+the+only+thing;Stronger+than+FEAR;Hoping+for+good+days;Yours+sincerely+omid" alt="Typing SVG" />
 <h2>my works:</h2>
-<br>
-
 <br><br>
 link #neomorphism:<br>
 https://github.com/omidreact/HeseMosbat
