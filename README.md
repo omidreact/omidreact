@@ -14,8 +14,6 @@ https://github.com/omidreact/HeseMosbat
 <br><br>
 <img src="https://user-images.githubusercontent.com/116552870/232909270-ff9181f8-d301-4064-a3b4-dd3ef3640c68.jpg"  alt="neomorphism"/>
 <img src="https://user-images.githubusercontent.com/116552870/226860123-e9654d9d-ebaf-4dc3-88d1-1dce2efba0ea.jpg"  alt="neo"/>
-<img src="https://user-images.githubusercontent.com/116552870/226860039-b6faa5d3-2b7b-44a8-b38a-88b873a4dcc0.jpg"  alt="neoorph"/>
-
 link #shop#fastfood:<br>
 https://github.com/omidreact/Shopfastfood
 <br><br>
