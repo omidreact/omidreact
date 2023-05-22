@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ![name](https://github.com/omidreact/omidreact/assets/116552870/651b1a32-316d-4f53-9741-463e18438a67)
+- 👋 Hi, I’m @omidreact
 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning React Native
