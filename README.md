@@ -1,4 +1,5 @@
-- 👋 Hi, I’m [@omidreact](https://raw.githubusercontent.com/omidreact/omidreact/55f1c604ae036fdc2d0e43522844f1c974b1a825/name.svg)
+- 👋 Hi, I’m ![name](https://github.com/omidreact/omidreact/assets/116552870/651b1a32-316d-4f53-9741-463e18438a67)
+
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me : sir.omidramezani@gmail.com
