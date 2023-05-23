@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me : sir.omidramezani@gmail.com
 - my website: http://oreact.ir
-Apps:
+-Apps:
 - «positive feeling» «حس مثبت» store cafebazar:
 http://cafebazaar.ir/app/?id=com.hesemosbat&ref=share
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HOPE;Is+the+only+thing;Stronger+than+FEAR;Hoping+for+good+days;Yours+sincerely+omid" alt="Typing SVG" />
