@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <img src="https://raw.githubusercontent.com/omidreact/omidreact/f95e7f8af6fcf9d2254728230fa6b5082c61f8ae/name3.svg" alt="Typing SVG" />
+- 👋 Hi, I’m <img src="https://raw.githubusercontent.com/omidreact/omidreact/f95e7f8af6fcf9d2254728230fa6b5082c61f8ae/name3.svg" alt="Typing SVG" style="width:200px,height:50px"/>
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me : sir.omidramezani@gmail.com
